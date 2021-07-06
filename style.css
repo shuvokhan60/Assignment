@@ -56,3 +56,20 @@ h1{
     width: 300px;
     
 }
+.oyshi{
+    box-shadow: 10px 4px 5px red;
+    display: flex;
+    margin: 10%;
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.sumayia{
+    width: 50%;
+    padding-left: 80px;
+    padding-right: 40px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
