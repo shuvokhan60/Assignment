@@ -3,7 +3,8 @@ span{
 }
 .shuvo{
     display: flex;
-    margin-bottom:100px;
+    margin-bottom:80px;
+    margin: 5%;
 }
 .ali{
     width: 50%;
@@ -39,11 +40,19 @@ h1{
 }
 .olympiar-ammu{
     box-shadow: 10px 10px 40px red;
-    width: 40%;
+    width: 30%;
+    border-radius: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
 }
 .lucky{
-    height: 450px;
+    height: 150px;
+    padding: 5%;
 }
 #lota{
-    height: 215px;
+    display: flex;
+    height: 300px;
+    width: 300px;
+    
 }
