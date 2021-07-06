@@ -8,6 +8,7 @@ span{
 .ali{
     width: 50%;
     padding-left: 80px;
+    padding-right: 40px;
 }
 .sobur{
     text-decoration: none;
@@ -23,4 +24,13 @@ body{
 h1{
     font-size: 50px;
     font-weight: 700;
+}
+.family{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.warina{
+    height:500px;
+    padding-left: 20px;
 }
