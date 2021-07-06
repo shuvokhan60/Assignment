@@ -1,0 +1,17 @@
+span{
+    color: red;
+}
+.shuvo{
+    display: flex;
+    margin-bottom:100px;
+}
+.ali{
+    width: 50%;
+    padding-left: 80px;
+}
+.sobur{
+    text-decoration: none;
+}
+body{
+    font-family:'Yomogi', cursive; ;
+}
